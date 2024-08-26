@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **an updated portfolio**
  
- 🌱 I’m currently learning **ThreeJS and AWS**
+ 🌱 I’m currently learning **ThreeJS, Blender, Tailwind CSS, and AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/nathanalbe/nathanalbe/issues)**
 
